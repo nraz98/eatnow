@@ -1,6 +1,7 @@
 # EatNow
 
-A new Flutter project.
+Food Viral Recommendation Mobile Application using
+Geolocation with Auto- Recommendation Places
 
 ## Getting Started
 
